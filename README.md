@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingnickisverycool" alt="kingnickisverycool" /></a> </p>
 
-- 🔭 I'm currently working on **A Unity Realistic Eyeball Digital Phantom project.**
+- 🔭 I'm currently working on **a Unity Realistic Eyeball Digital Phantom project.**
 
-- 🌱 I'm currently learning **Advanced Blender Tools, along with C# and HTML.**
+- 🌱 I'm currently learning **advanced Blender Tools, along with C# and HTML.**
 
-- 👯 I'm looking to collaborate on **More projects**
+- 👯 I'm looking to collaborate on **more projects**
 
-- 🤝 I'm looking for help with **Nothing much right now.**
+- 🤝 I'm looking for help with: **nothing much right now.**
 
-- 💬 Ask me about **Blender, Unity, C#, Python, HTML, and Command Prompt tools in Linux (preferably Arch and Ubuntu), and Windows based platforms.**
+- 💬 Ask me about **Blender, Unity, C#, Python, HTML, and Command Prompt tools in Linux (preferably Arch and Ubuntu), and Windows based platforms. Also MAYBE music (to an extent)**
 
 - 📫 How to reach me **kingnickisverycool@gmail.com**
 
-- ⚡ Fun fact **something inspiring goes here.**
+- ⚡ Fun fact! **something inspiring goes here.**
 
 - 📄 Know about my experiences **[https://docs.google.com/document/d/1S5Mct9Xm-0yN0Ug-hSguUmIXat8EaXUim3rU6oTLDzE/edit?usp=sharing](https://docs.google.com/document/d/1S5Mct9Xm-0yN0Ug-hSguUmIXat8EaXUim3rU6oTLDzE/edit?usp=sharing)**
 
