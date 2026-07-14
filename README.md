@@ -1,10 +1,6 @@
 # Hi 👋, I'm King Nick
 
-### A passionate developer from around the world
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingnickisverycool&label=Profile views&color=0e75b6&style=flat" alt="kingnickisverycool" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingnickisverycool" alt="kingnickisverycool" /></a> </p>
+### A passionate developer from Upstate New York
 
 - 🔭 I'm currently working on **a Unity Realistic Eyeball Digital Phantom project.**
 
@@ -14,13 +10,13 @@
 
 - 🤝 I'm looking for help with: **nothing much right now.**
 
-- 💬 Ask me about **Blender, Unity, C#, Python, HTML, and Command Prompt tools in Linux (preferably Arch and Ubuntu), and Windows based platforms. Also MAYBE music (to an extent)**
+- 💬 Ask me about **Blender, Unity, C#, Python, HTML, and Command Prompt tools in Linux (preferably Arch and Ubuntu), and Windows based platforms. Also MAYBE music, cds, and dvds (to an extent).**
 
-- 📫 How to reach me **kingnickisverycool@gmail.com**
+- 📫 You can reach me VIA Gmail at **kingnickisverycool@gmail.com**. I'm all ears! (Well at least until ten pm.)
 
-- ⚡ Fun fact! **something inspiring goes here.**
+- ⚡ Fun fact! **something inspiring goes here. also unity render pipeline goes brrrrrrrrr**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1S5Mct9Xm-0yN0Ug-hSguUmIXat8EaXUim3rU6oTLDzE/edit?usp=sharing](https://docs.google.com/document/d/1S5Mct9Xm-0yN0Ug-hSguUmIXat8EaXUim3rU6oTLDzE/edit?usp=sharing)**
+- 📄 My resume: **[https://docs.google.com/document/d/1S5Mct9Xm-0yN0Ug-hSguUmIXat8EaXUim3rU6oTLDzE/edit?usp=sharing](https://docs.google.com/document/d/1S5Mct9Xm-0yN0Ug-hSguUmIXat8EaXUim3rU6oTLDzE/edit?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
